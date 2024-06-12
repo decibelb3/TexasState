@@ -1,3 +1,5 @@
+#Shannon Burns
+#6-10-2024
 import socket
 
 # Create a TCP/IP socket
